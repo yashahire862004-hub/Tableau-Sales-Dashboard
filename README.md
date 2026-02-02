@@ -25,16 +25,6 @@ The goal of this project is to create a **visual and interactive dashboard** usi
 
 ---
 
-# How to View the Dashboard
-
-To open and view the dashboard:
-
-1. Download **Tableau Desktop** or **Tableau Public**
-2. Open the file: [Sales Dataset.csv](https://github.com/user-attachments/files/25009326/Sales.Dataset.csv)
-3. Interact with the filters and charts
-
----
-
 # Dashboard Features
 
 **Top KPI Cards**  
